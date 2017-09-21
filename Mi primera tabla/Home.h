@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  Home.h
 //  Mi primera tabla
 //
 //  Created by MacL on 20/09/17.
@@ -10,6 +10,7 @@
 
 @interface Home: UIViewController
 
+@property (weak, nonatomic) IBOutlet UITableView *tableMain;
 
 @end
 
