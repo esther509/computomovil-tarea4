@@ -38,6 +38,11 @@
                     </label>
                 </subviews>
             </tableViewCellContentView>
+            <connections>
+                <outlet property="ImgUser" destination="iMV-Aw-qnD" id="ll8-uM-lek"/>
+                <outlet property="labelAge" destination="as6-5D-ccJ" id="xMh-Xl-EEO"/>
+                <outlet property="labelName" destination="jRn-jj-Tv7" id="AWv-wC-aEg"/>
+            </connections>
         </tableViewCell>
     </objects>
     <resources>

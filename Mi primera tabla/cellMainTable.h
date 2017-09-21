@@ -9,5 +9,8 @@
 #import <UIKit/UIKit.h>
 
 @interface cellMainTable : UITableViewCell
+@property (weak, nonatomic) IBOutlet UIImageView *ImgUser;
+@property (weak, nonatomic) IBOutlet UILabel *labelName;
+@property (weak, nonatomic) IBOutlet UILabel *labelAge;
 
 @end
