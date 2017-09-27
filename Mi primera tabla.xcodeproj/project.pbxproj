@@ -15,7 +15,15 @@
 		8108CB961F732FD600A7900C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8108CB941F732FD600A7900C /* LaunchScreen.storyboard */; };
 		8108CBA31F7336C200A7900C /* cellMainTable.m in Sources */ = {isa = PBXBuildFile; fileRef = 8108CBA11F7336C200A7900C /* cellMainTable.m */; };
 		8108CBA41F7336C200A7900C /* cellMainTable.xib in Resources */ = {isa = PBXBuildFile; fileRef = 8108CBA21F7336C200A7900C /* cellMainTable.xib */; };
-		8108CBA61F73385C00A7900C /* Images in Resources */ = {isa = PBXBuildFile; fileRef = 8108CBA51F73385C00A7900C /* Images */; };
+		8108CBAF1F734A5400A7900C /* AryaStark.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 8108CBA81F734A5400A7900C /* AryaStark.jpeg */; };
+		8108CBB01F734A5400A7900C /* CerseiLannister.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 8108CBA91F734A5400A7900C /* CerseiLannister.jpeg */; };
+		8108CBB11F734A5400A7900C /* Daenerys.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 8108CBAA1F734A5400A7900C /* Daenerys.jpeg */; };
+		8108CBB21F734A5400A7900C /* GregorClegane.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 8108CBAB1F734A5400A7900C /* GregorClegane.jpeg */; };
+		8108CBB31F734A5400A7900C /* JonSnow.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 8108CBAC1F734A5400A7900C /* JonSnow.jpeg */; };
+		8108CBB41F734A5400A7900C /* SansaStark.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 8108CBAD1F734A5400A7900C /* SansaStark.jpeg */; };
+		8108CBB51F734A5400A7900C /* tyrion.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 8108CBAE1F734A5400A7900C /* tyrion.jpeg */; };
+		81F20CA91F7B376D00F04B15 /* AddCellViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 81F20CA81F7B376D00F04B15 /* AddCellViewController.m */; };
+		81F9A8111F7BF83D00F90021 /* InfoViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 81F9A8101F7BF83D00F90021 /* InfoViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,7 +40,17 @@
 		8108CBA01F7336C200A7900C /* cellMainTable.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = cellMainTable.h; sourceTree = "<group>"; };
 		8108CBA11F7336C200A7900C /* cellMainTable.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = cellMainTable.m; sourceTree = "<group>"; };
 		8108CBA21F7336C200A7900C /* cellMainTable.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = cellMainTable.xib; sourceTree = "<group>"; };
-		8108CBA51F73385C00A7900C /* Images */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Images; sourceTree = "<group>"; };
+		8108CBA81F734A5400A7900C /* AryaStark.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = AryaStark.jpeg; path = Images/AryaStark.jpeg; sourceTree = "<group>"; };
+		8108CBA91F734A5400A7900C /* CerseiLannister.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = CerseiLannister.jpeg; path = Images/CerseiLannister.jpeg; sourceTree = "<group>"; };
+		8108CBAA1F734A5400A7900C /* Daenerys.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Daenerys.jpeg; path = Images/Daenerys.jpeg; sourceTree = "<group>"; };
+		8108CBAB1F734A5400A7900C /* GregorClegane.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = GregorClegane.jpeg; path = Images/GregorClegane.jpeg; sourceTree = "<group>"; };
+		8108CBAC1F734A5400A7900C /* JonSnow.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = JonSnow.jpeg; path = Images/JonSnow.jpeg; sourceTree = "<group>"; };
+		8108CBAD1F734A5400A7900C /* SansaStark.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = SansaStark.jpeg; path = Images/SansaStark.jpeg; sourceTree = "<group>"; };
+		8108CBAE1F734A5400A7900C /* tyrion.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = tyrion.jpeg; path = Images/tyrion.jpeg; sourceTree = "<group>"; };
+		81F20CA71F7B376D00F04B15 /* AddCellViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AddCellViewController.h; sourceTree = "<group>"; };
+		81F20CA81F7B376D00F04B15 /* AddCellViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AddCellViewController.m; sourceTree = "<group>"; };
+		81F9A80F1F7BF83D00F90021 /* InfoViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = InfoViewController.h; sourceTree = "<group>"; };
+		81F9A8101F7BF83D00F90021 /* InfoViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = InfoViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -65,7 +83,7 @@
 		8108CB851F732FD600A7900C /* Mi primera tabla */ = {
 			isa = PBXGroup;
 			children = (
-				8108CBA51F73385C00A7900C /* Images */,
+				8108CBA71F734A2F00A7900C /* Images */,
 				8108CB9F1F73361600A7900C /* Cells */,
 				8108CB9E1F73300500A7900C /* Controllers */,
 				8108CB9D1F732FEC00A7900C /* Main */,
@@ -100,6 +118,10 @@
 			children = (
 				8108CB8C1F732FD600A7900C /* Home.h */,
 				8108CB8D1F732FD600A7900C /* Home.m */,
+				81F20CA71F7B376D00F04B15 /* AddCellViewController.h */,
+				81F20CA81F7B376D00F04B15 /* AddCellViewController.m */,
+				81F9A80F1F7BF83D00F90021 /* InfoViewController.h */,
+				81F9A8101F7BF83D00F90021 /* InfoViewController.m */,
 			);
 			name = Controllers;
 			sourceTree = "<group>";
@@ -112,6 +134,20 @@
 				8108CBA21F7336C200A7900C /* cellMainTable.xib */,
 			);
 			name = Cells;
+			sourceTree = "<group>";
+		};
+		8108CBA71F734A2F00A7900C /* Images */ = {
+			isa = PBXGroup;
+			children = (
+				8108CBA81F734A5400A7900C /* AryaStark.jpeg */,
+				8108CBA91F734A5400A7900C /* CerseiLannister.jpeg */,
+				8108CBAA1F734A5400A7900C /* Daenerys.jpeg */,
+				8108CBAB1F734A5400A7900C /* GregorClegane.jpeg */,
+				8108CBAC1F734A5400A7900C /* JonSnow.jpeg */,
+				8108CBAD1F734A5400A7900C /* SansaStark.jpeg */,
+				8108CBAE1F734A5400A7900C /* tyrion.jpeg */,
+			);
+			name = Images;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -172,11 +208,17 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				8108CBA61F73385C00A7900C /* Images in Resources */,
+				8108CBB51F734A5400A7900C /* tyrion.jpeg in Resources */,
 				8108CB961F732FD600A7900C /* LaunchScreen.storyboard in Resources */,
 				8108CB931F732FD600A7900C /* Assets.xcassets in Resources */,
 				8108CB911F732FD600A7900C /* Main.storyboard in Resources */,
+				8108CBB21F734A5400A7900C /* GregorClegane.jpeg in Resources */,
+				8108CBAF1F734A5400A7900C /* AryaStark.jpeg in Resources */,
+				8108CBB31F734A5400A7900C /* JonSnow.jpeg in Resources */,
+				8108CBB11F734A5400A7900C /* Daenerys.jpeg in Resources */,
 				8108CBA41F7336C200A7900C /* cellMainTable.xib in Resources */,
+				8108CBB41F734A5400A7900C /* SansaStark.jpeg in Resources */,
+				8108CBB01F734A5400A7900C /* CerseiLannister.jpeg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -188,6 +230,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				8108CB8E1F732FD600A7900C /* Home.m in Sources */,
+				81F20CA91F7B376D00F04B15 /* AddCellViewController.m in Sources */,
+				81F9A8111F7BF83D00F90021 /* InfoViewController.m in Sources */,
 				8108CB8B1F732FD600A7900C /* AppDelegate.m in Sources */,
 				8108CB881F732FD600A7900C /* main.m in Sources */,
 				8108CBA31F7336C200A7900C /* cellMainTable.m in Sources */,
@@ -347,6 +391,7 @@
 				8108CB9C1F732FD600A7900C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

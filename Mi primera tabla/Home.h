@@ -12,5 +12,7 @@
 
 @property (weak, nonatomic) IBOutlet UITableView *tableMain;
 
+-(void) addCellWithName:(NSString*)name withAge:(NSString*)age withDescription:(NSString*)description andImage:(UIImage*) image;
+
 @end
 
